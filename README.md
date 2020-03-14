@@ -1,4 +1,7 @@
 Interactive-Visualizations-and-Dashboards
+
+In this project, we read in subject matter data from a belly button study to determin the amount and type of bacteria left on belly buttons after washing.The result of this project is to create an interactive dashboard.
+
 Instructions: This is an assignment to build an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels. The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
 Step 1: Plotly
